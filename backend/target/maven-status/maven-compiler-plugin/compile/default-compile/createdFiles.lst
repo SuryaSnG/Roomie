@@ -1,0 +1,6 @@
+com\project\roomie\repository\UserRepository.class
+com\project\roomie\controller\UserController.class
+com\project\roomie\service\UserService.class
+com\project\roomie\RoomieApplication.class
+com\project\roomie\serviceImpl\UserServiceImpl.class
+com\project\roomie\model\User.class
